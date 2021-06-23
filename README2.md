@@ -1,5 +1,2 @@
-# task0 Виконала Осадча Анастасія КН-20014Б
-![image](https://user-images.githubusercontent.com/85665419/122813755-fda43500-d2db-11eb-852a-fdace6c85d80.png)
-
-Створюємо ssh ключ
-
+# task2 Виконала Осадча Анастасія КН-20014Б
+![image](https://user-images.githubusercontent.com/85665419/123175940-4c440180-d48b-11eb-92cd-2f6416bb3001.png)
