@@ -56,7 +56,7 @@ def output(diction):
                      text.insert(END, textinsert)
                      textinsert="Кількість видужавших:" + str(diction[i+3]) + "\n"
                      text.insert(END, textinsert)
-                     textinsert="/n"
+                     textinsert="\n"
                      text.insert(END, textinsert)
 
               elif diction[i] == "China":
@@ -68,7 +68,7 @@ def output(diction):
                      text.insert(END, textinsert)
                      textinsert="Кількість видужавших:" + str(diction[i+3]) + "\n"
                      text.insert(END, textinsert)
-                     textinsert="/n"
+                     textinsert="\n"
                      text.insert(END, textinsert)
                      
               elif diction[i] == "Thailand":
@@ -80,7 +80,7 @@ def output(diction):
                      text.insert(END, textinsert)
                      textinsert="Кількість видужавших:" + str(diction[i+3]) + "\n"
                      text.insert(END, textinsert)
-                     textinsert="/n"
+                     textinsert="\n"
                      text.insert(END, textinsert)
                      
               elif diction[i] == "S. Korea":
@@ -92,7 +92,7 @@ def output(diction):
                      text.insert(END, textinsert)
                      textinsert="Кількість видужавших:" + str(diction[i+3]) + "\n"
                      text.insert(END, textinsert)
-                     textinsert="/n"
+                     textinsert="\n"
                      text.insert(END, textinsert)
 
               elif diction[i] == "India":
@@ -104,7 +104,7 @@ def output(diction):
                      text.insert(END, textinsert)
                      textinsert="Кількість видужавших:" + str(diction[i+3]) + "\n"
                      text.insert(END, textinsert)
-                     textinsert="/n"
+                     textinsert="\n"
                      text.insert(END, textinsert)
 
 tk.Button(text='Update info', bd=5,font=('Times New Roman', 20), command=update).place(x=90, y=90)                     
